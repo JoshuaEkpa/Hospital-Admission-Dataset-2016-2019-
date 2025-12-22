@@ -25,8 +25,8 @@ ________________________________________________________________________________
 7. Diagnosis         ------>                        Primary medical condition
 8. DOA               ------>                        Date of Admission
 9. Length_of_Stay    ------>                        Number of days admitted
-10. Outcome                               Discharged / Referred / Deceased
-11. Type_of_Area                          U = Urban, R = Rural
+10. Outcome          ------>                        Discharged / Referred / Deceased
+11. Type_of_Area     ------>                        U = Urban, R = Rural
 
 _____________________________________________________________________________________________________________________________
 
