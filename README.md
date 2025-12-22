@@ -5,6 +5,7 @@ This study applies Exploratory Data Analysis (EDA) to hospital admission records
 ___________________________________________________________________________________________________________________________
 
 🎯 Business Objectives
+
 The key objectives of this project are to:
 1. Analyze hospital admission trends over time
 2. Examine patient distribution by age group and gender
