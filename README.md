@@ -14,6 +14,23 @@ The key objectives of this project are to:
 
 _____________________________________________________________________________________________________________________________
 
+📊 Dataset 
+
+1. Column Description
+2. Column Name                           Description
+3. SN                                    Unique patient record ID
+4. Age                                   Patient age
+5. Age_Group                             Age range category
+6. Gender                                M = Male, F = Female
+7. Diagnosis                             Primary medical condition
+8. DOA                                   Date of Admission
+9. Length_of_Stay                        Number of days admitted
+10. Outcome                               Discharged / Referred / Deceased
+11. Type_of_Area                          U = Urban, R = Rural
+
+_____________________________________________________________________________________________________________________________
+
+
 🛠 Tools & Technologies
 1. Microsoft Excel – Data cleaning and preprocessing
 2. Power BI – Data modeling, visualization, and dashboard creation
@@ -47,6 +64,12 @@ ________________________________________________________________________________
 5. Urban vs Rural admission comaprison 
 
 _______________________________________________________________________________________________________________________________ 
+
+📊 Conclusion 
+
+The forecast indicates a steady increase in hospital admissions, largely driven by aging populations and chronic disease prevalence. Proactive planning in staffing, infrastructure, and preventive healthcare will be essential to meet future demand.
+
+______________________________________________________________________________________________________________________________
 
 📈 Recommendations
 
