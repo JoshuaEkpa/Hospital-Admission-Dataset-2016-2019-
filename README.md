@@ -17,14 +17,14 @@ ________________________________________________________________________________
 📊 Dataset 
 
 1. Column Description
-2. Column Name                           Description
-3. SN                                    Unique patient record ID
-4. Age                                   Patient age
-5. Age_Group                             Age range category
-6. Gender                                M = Male, F = Female
-7. Diagnosis                             Primary medical condition
-8. DOA                                   Date of Admission
-9. Length_of_Stay                        Number of days admitted
+2. Column Name       ------>                        Description
+3. SN                ------>                        Unique patient record ID
+4. Age               ------>                        Patient age
+5. Age_Group         ------>                        Age range category
+6. Gender            ------>                        M = Male, F = Female
+7. Diagnosis         ------>                        Primary medical condition
+8. DOA               ------>                        Date of Admission
+9. Length_of_Stay    ------>                        Number of days admitted
 10. Outcome                               Discharged / Referred / Deceased
 11. Type_of_Area                          U = Urban, R = Rural
 
