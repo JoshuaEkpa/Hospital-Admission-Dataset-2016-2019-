@@ -1,6 +1,7 @@
 # Hospital-Admission-Dataset-2016-2019-
 
-<img width="1600" height="990" alt="image" src="https://github.com/user-attachments/assets/ceb7d777-5020-4f0b-bea4-63f4809f8b8a" />
+<img width="1600" height="990" alt="image" src="https://github.com/user-attachments/assets/b69c9f83-dca2-4e06-bbec-01ddd7e62cd0" />
+
 
 
 
