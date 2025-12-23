@@ -1,4 +1,14 @@
 # Hospital-Admission-Dataset-2016-2019-
+
+<img width="1600" height="990" alt="image" src="https://github.com/user-attachments/assets/78071178-01fb-428c-b4a0-a44cbfe16137" />
+
+
+
+
+
+
+___________________________________________________________________________________________________________________________________________________ 
+
 This study applies Exploratory Data Analysis (EDA) to hospital admission records covering the period 2016–2019, with the objective of identifying statistically meaningful patterns in patient demographics, disease prevalence, and healthcare utilization. Using secondary administrative health data, key variables
 
 
