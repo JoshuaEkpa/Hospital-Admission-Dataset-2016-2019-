@@ -105,10 +105,18 @@ Age-Group Diagnoses
 
 _________________________________________________________________________________________________________________________________ 
 
-Let's Dive Into The World Of DATA
+Exploring The World Of Data to Deliver Actionable and Impactful Insights
 <img width="586" height="400" alt="Screenshot 2025-12-20 192650" src="https://github.com/user-attachments/assets/71bef6ae-55b3-4593-9d0a-8e3fb29008c5" />
 
+______________________________________________________________________________________________________________________________________ 
 
+👤 Author
+Joshua Ekpa
+Data Analyst | Excel | Power BI | SQL | Business Intelligence
+📬 Contact: +234 816 778 7222
+📧 Email: joshuaekpa5@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/joshua-ekpa-302223327
+🔗 Wix APP: https://joshuaekpa5.wixsite.com/joshuaekpa 
 
 
 
