@@ -94,7 +94,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________
 
-Dashboard View 
+Dashboard  
 <img width="1182" height="670" alt="EDA HOSPITAL ADMISSION DATASET Screenshot 2025-11-21 175858" src="https://github.com/user-attachments/assets/60ed0d63-7b4b-4b55-9efc-e9f9d91dd0b4" />
 
 
